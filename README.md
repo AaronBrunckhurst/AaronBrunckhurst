@@ -1,6 +1,6 @@
 ## Hey, I'm Aaron 👋
 
-I'm a software engineer with a thing for embedded systems and hardware that actually ships. I've spent the last few years building everything from real-time bus tracking firmware to semi-autonomous forklifts — usually in C, C++, or Python, usually closer to the metal than most people want to be.
+I'm a software engineer with a thing for embedded systems and hardware that actually ships. I've spent the last few years building everything from real-time bus tracking firmware to semi-autonomous forklifts — usually in C, C++, or Python, usually working on the interface between software and its application in the real world.
 
 Currently at **Think Circuits** working on autonomous navigation and embedded camera systems.
 
