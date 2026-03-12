@@ -1,32 +1,21 @@
-## Hey, I'm Aaron Brunckhurst 👋
+## Hey, I'm Aaron 👋
 
-I’m a software engineer who likes taking complex ideas and turning them into simple, working systems—both in code and hardware.
+I'm a software engineer with a thing for embedded systems and hardware that actually ships. I've spent the last few years building everything from real-time bus tracking firmware to semi-autonomous forklifts — usually in C, C++, or Python, usually closer to the metal than most people want to be.
 
-### What I Do
-- **Backend & Systems:** C#, C++, Python—building robust, real-world software.  
-- **Hardware Prototyping:** CAD, electronics, deployment, and microcontrollers like Raspberry Pi Pico.  
-- **Embedded & IoT:** Communication systems including I2C, UART, SPI, and CAN.  
-- **Project Delivery:** Led startup companies and real-world projects from concept to deployment.
+Currently at **Think Circuits** working on autonomous navigation and embedded camera systems.
 
-### Featured Projects
-- **PinpointAVL:** Real-time AVL system for UCSC buses, including passenger analytics.  
-- **OpenCV & Computer Vision:** Python scripts for object classification and detection using YOLO and blob detection for a robotic arm ([see project](https://github.com/AaronBrunckhurst/arm)).  
-- **ConfabAgora:** Cross-platform C# and WPF communication platform.
+### 🛠 What I Work With
+- **Languages:** C, C++, C#, Python, Java
+- **Embedded & Hardware:** Raspberry Pi Pico, CAN, I2C, UART, SPI, CAD
+- **Frameworks & Tools:** ROS2, OpenCV, WPF, .NET, LLM Toolcalling, Git, Linux
+- **AI / Cloud:** Computer Vision, LLM integration, Google Cloud
 
-💡 More projects and my portfolio: [AaronBrunckhurst.github.io](https://AaronBrunckhurst.github.io/)
+### 🚀 Featured Projects
+- **PinpointAVL** *(closed source)* — Real-time vehicle tracking running on 19 UCSC campus buses. Firmware in C on Raspberry Pi Pico, backend in C#/.NET. Won 1st place at UCSC Launchpad 2022 out of 19 teams ($10k prize).
+- **[Slugbotics Robotic Arm](https://github.com/AaronBrunckhurst/arm)** — Computer vision and LLM integration for a 3D-printed robotic arm. Object recognition in Python + OpenCV, with Llama 3.2 toolcalling for natural-language task direction.
+- **Confab Agora** *(closed source)* — Real-time voice and text chat app in C# and WPF. Built the whole stack: auth, SQL storage, TCP/UDP transmission, and a game launcher on top.
 
-
-<!--
-**AaronBrunckhurst/AaronBrunckhurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in Touch
+- 🌐 [AaronBrunckhurst.github.io](https://AaronBrunckhurst.github.io/showcase.html)
+- 💼 [linkedin.com/in/aaronbrunckhurst](https://linkedin.com/in/aaronbrunckhurst)
+- ✉️ aaronbrunckhurst@gmail.com
